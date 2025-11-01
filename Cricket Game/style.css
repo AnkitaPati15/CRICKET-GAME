@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-color: burlywood;
+    
+}
+
+.choice-button{
+    height: 100px;
+    width:100px;
+    border:none;
+    margin:10px;
+    background-color: greenyellow;
+    cursor:pointer;
+}
+.choice-image{
+    height:75px;
+}
+#btn{
+    background-color: darkgreen;
+    color: white;
+    margin: 11px;
+    padding: 10px;
+}
